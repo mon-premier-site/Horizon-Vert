@@ -1,0 +1,56 @@
+
+/*Section pincipal avec image de fond*/
+.hero{
+    background-image:url(../images/evans.jfif) ;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 1765px;
+    display: flex;
+    justify-content: left;
+}
+.hero-text h3{
+font-size: 2.5em;
+margin: 0;
+}
+.hero-text p{
+    font-size: 1.2em;
+}
+body{
+ text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ju{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+input{
+    color: chocolate;
+}
+.carole{
+    background-color: wheat;
+}
+h1{
+    color: aqua;
+}
+#lm{
+    color: blueviolet;
+    text-align: center;
+}
+h2{
+    color: cadetblue;
+}
+.vl{
+    color: cadetblue;
+}
+#ja{
+    text-align:center;
+}
+.mangue{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}

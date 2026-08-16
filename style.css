@@ -1,0 +1,139 @@
+body{
+    font-size: 20px;
+}
+@media(max-width: 600px) {
+    body{
+        font-size: 14px;
+    }
+}
+/*Section pincipal avec image de fond*/
+.hero{
+    background-image:url(../images/evans.jfif)  ;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 1765px;
+    display: flex;
+    justify-content: left;
+}
+a{
+    justify-content: spx;
+}
+.hero-text{
+font-size: 2.5em;
+margin: 0;
+display: flex;
+list-style: ;
+}
+.hero-text h3{
+font-size: 2.5em;
+margin: 0;
+}
+.hero-text p{
+    font-size: 1.2em;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ju{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+input{
+    color: chocolate;
+}
+h1{
+    color: aqua;
+}
+.he{
+    border: solid greenyellow;
+    border-radius: 20px;
+    list-style: none;
+    align-items: center;
+    gap: 20px; 
+}
+.fe{
+    border: solid greenyellow;
+    border-radius: 20px;
+    list-style: none;
+    align-items: center;
+    gap: 20px;
+}
+.ve{
+      border: solid greenyellow;
+    border-radius: 20px;
+    list-style: none;
+    align-items: center;
+    gap: 20px;
+    width: 300px;
+}
+.we:hover{
+    transition: 0.3s ease;/*animation fluide*/
+    transform: scale(1.1);/*zoom leger*/
+      border: solid greenyellow;
+    border-radius: 20px;
+    list-style: none;
+    align-items: center;
+    gap: 20px;
+}
+.me{
+      border: solid greenyellow;
+    border-radius: 20px;
+    list-style: none;
+    align-items: center;
+    gap: 20px;
+}
+.nu{
+        border: solid greenyellow;
+    border-radius: 20px;
+    list-style: none;
+    align-items: center;
+    gap: 20px;
+}
+.xu{
+       border: solid greenyellow;
+    border-radius: 20px;
+    list-style: none;
+    align-items: center;
+    gap: 20px; 
+}
+.qu{
+        border: solid greenyellow;
+    border-radius: 20px;
+    list-style: none;
+    align-items: center;
+   }
+head{
+    background-color: chocolate;
+}
+fieldset{
+    color: black;
+    border: 5px solid rgb(94, 218, 94);
+    border-radius: 10px;
+}
+textarea{
+    padding: 20px;
+}
+.viral:hover{
+    padding: 15px;
+    background-color: aquamarine;
+}
+input{
+    color: chocolate;
+}
+.carole{
+    background-color: wheat;
+}
+h1{
+    color: aqua;
+}
+h4{
+    color: whitesmoke;
+}
+#nba{
+    background-color: greenyellow;
+    color: whitesmoke;
+    text-align: center;
+}
